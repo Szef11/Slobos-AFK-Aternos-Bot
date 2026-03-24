@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Herbatnikowopl.aternos.me:42742",
+    "port": 42742,
     "version": "",
     "try-creative": false
   },
