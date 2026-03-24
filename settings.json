@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Herbatnikowopl.aternos.me:42742",
+    "ip": "Herbatnikowopl.aternos.me",
     "port": 42742,
     "version": "",
     "try-creative": false
